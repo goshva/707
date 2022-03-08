@@ -8,14 +8,14 @@
 Пример данных
 
 json
-'''
+```
 [
 {"id": 1, "title": "name1", "rand": "apple"},
 {"id": 2, "title": "name2", "rand": "tomato"},
 {"id": 3, "title": "name3", "rand": "potato"},
 {"id": 4, "title": "name4", "rand": "orange"}
 ]
-'''
+```
 
 На странице должны быть отрисованы форма, таблица и график (круговая диограмма).
 
